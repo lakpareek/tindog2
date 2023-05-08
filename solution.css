@@ -31,3 +31,9 @@
   height: 3rem;
   border-radius: 0.75rem;
 }
+
+@media only screen and (max-width: 762px) {
+  body {
+    padding: 40px;
+  }
+}
