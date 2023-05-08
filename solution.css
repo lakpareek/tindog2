@@ -34,6 +34,6 @@
 
 @media only screen and (max-width: 762px) {
   .gradient-background {
-    padding: 40px;
+    padding-bottom: 40px;
   }
 }
